@@ -72,7 +72,7 @@
         },
         // 바이너리 실행(Ubuntu)
         {
-            "label": "execute",
+            "label": "C, C++ execute",
             "command": "${fileDirname}${fileBasenameNoExtension}.out",
             "group": {
                 "kind": "test",
